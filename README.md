@@ -1,5 +1,7 @@
 Woof!
 
+![woof](https://i.stack.imgur.com/DskhO.png)
+
 ```
 pragma solidity ^0.5.1;
 
